@@ -1,11 +1,5 @@
 # 05 Third-Party APIs: Task Board
 
-## Your Task
-
-Create a simple task board application that allows a team to manage project tasks by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with dates. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
-
 This page is a task board page.  The objective of this page is to add tasks, manage the state of tasks progress and be able to view all tasks for tracking purposes.
 ```
 
@@ -22,7 +16,3 @@ Below are screen snippets of the page:
 ![image](https://github.com/tlitschgi/challenge_5/assets/169003509/2c3e4b93-62f9-46b9-8b51-a49816d2f18e)
 ![image](https://github.com/tlitschgi/challenge_5/assets/169003509/c0dc7ba4-0fb7-4dec-ab74-385a4fc6261e)
 ![image](https://github.com/tlitschgi/challenge_5/assets/169003509/3a4520c1-3e4c-4010-b6ad-00781932f2c7)
-
-
-
-
